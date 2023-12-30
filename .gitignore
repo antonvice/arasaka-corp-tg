@@ -10,3 +10,6 @@ dist/
 .env.docker
 MrBot.*
 nucradkillsrats.*
+DJBOT.*
+SIGMA_BOT.*
+AI_BOT.*
