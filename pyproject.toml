@@ -10,6 +10,9 @@ python = "^3.9"
 Hydrogram = "^0.1.4"
 py-tgcalls = "^1.1.2"
 torch = {url = "https://download.pytorch.org/whl/cpu/torch-2.1.2-cp39-none-macosx_11_0_arm64.whl"}
+python-dotenv = "^1.0.0"
+tgcrypto = "^1.2.5"
+faster-whisper = "^0.10.0"
 
 
 [build-system]
