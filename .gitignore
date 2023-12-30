@@ -1,0 +1,12 @@
+test.wav
+*.session
+# Ignore logs
+logs
+*.log
+# .gitignore
+.DS_Store
+*.env
+dist/
+.env.docker
+MrBot.*
+nucradkillsrats.*
