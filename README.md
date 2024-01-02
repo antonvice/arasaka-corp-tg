@@ -28,8 +28,11 @@ ARASAKA offers the next generation automation for managing and engaging Telegram
 🔲 📞 Calls management system
 🔲 💬 Chat analysis and moderation
 ### AI Capabilities
+
 ☑️ 🧠 LLM and diffusion models integration
+
 🔲 🕸 Web UI for model interactions
+
 ### Ecommerce and Operations
 🔲 🛒 Storefront workflows
 🔲 📰 Automated content generation
