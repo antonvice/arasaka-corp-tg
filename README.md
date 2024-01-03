@@ -82,7 +82,7 @@ Lots of robust capabilities coming down the pipeline! Stay tuned as we expand th
   * PyTgCalls 🎧
 * Hosting: 
   * Kubernetes ☸️
-
+----------- UNDER CONSTRUCTION ---------
 ## 🚀 Getting Started  
 
 Launch your personalized ARASAKA supervisor in 5 easy steps! 💫
