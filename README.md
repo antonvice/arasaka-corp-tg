@@ -59,6 +59,7 @@ ARASAKA offers the next generation automation for managing and engaging Telegram
 ### Infrastructure
 
 🔲 ☸️ Kubernetes cluster deployment
+
 🔲 ⚙️ CI/CD pipelines setup
 
 Lots of robust capabilities coming down the pipeline! Stay tuned as we expand the ARASAKA platform. ✨
